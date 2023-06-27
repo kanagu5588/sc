@@ -54,8 +54,9 @@
     }
     .navlinks ul li button{
         left: 7%;
-        
-        padding: 10px 90px;
+        width: 86%;
+        padding: 10px 0px;
+        /* padding: 10px 90px; */
         position: relative;
         top: 5vh;
     }
